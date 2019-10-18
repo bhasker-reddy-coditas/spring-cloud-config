@@ -1,6 +1,0 @@
-message.default.welcome=welcome from cloud...
-message.default.goodbye=goodbye from cloud..
-spring.cloud.config.allowOverride=true
-spring.cloud.config.overrideNone=true
-spring.cloud.config.overrideSystemProperties=false
-management.endpoints.web.exposure.include = *
